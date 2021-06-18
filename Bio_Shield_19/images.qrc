@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>LandingPage.png</file>
+        <file>ThermoScan_ProximityNotification.png</file>
+        <file>ThermoScan.png</file>
+        <file>QRCodeDisplay.png</file>
+        <file>PaymentConfirmation.png</file>
+        <file>PaymentConfirmationERROR.png</file>
+        <file>ExitPage.png</file>
+        <file>SettingsLogIn.png</file>
+        <file>Exit_Static.png</file>
+        <file>ENTER_STATIC.png</file>
+        <file>ENTER_SELECTED.png</file>
+        <file>LandingPage1.png</file>
+        <file>QRCodeDisplay1.png</file>
+        <file>OutofStock.png</file>
+        <file>SettingsPage.png</file>
+        <file>login.png</file>
+        <file>ENTER_SELECTED1.png</file>
+        <file>ENTER_STATIC1.png</file>
+        <file>Exit_Selected.png</file>
+        <file>Exit_Static1.png</file>
+    </qresource>
+</RCC>
